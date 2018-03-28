@@ -1,0 +1,6 @@
+/target/
+*.iml
+.idea/
+
+/daughter-project/target
+/son-project/target
